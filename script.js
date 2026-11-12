@@ -29,7 +29,7 @@ const menuItems = [
   {id:25, category:"salads", price:40000, uz:"Vinegret salati (250 g)", ru:"Салат винегрет (250 г)", image:"https://static.eldorado.ru/promo/src/klassicheskij-vinegret/img/img9.webp"},
   {id:26, category:"salads", price:70000, uz:"Shiitake salati (250 g)", ru:"Салат шитаки (250 г)", image:"https://i.ytimg.com/vi/R-kmGRRN3Mw/maxresdefault.jpg"},
   
-  {id:28, category:"sides", price:20000, uz:"Aydaхо kartoshkasi", ru:"Картофель Айдахо", image:"https://images.unsplash.com/photo-1639024471283-03518883512d?auto=format&fit=crop&w=800&q=80"},
+  {id:28, category:"sides", price:20000, uz:"Aydaхо kartoshkasi", ru:"Картофель Айдахо", image:"https://static.tildacdn.com/tild3132-3861-4132-b133-316138393737/1_1.jpg"},
   {id:29, category:"hot", price:40000, uz:"Osma sho‘rva (320 g)", ru:"Осма шурпа (320 г)", image:"https://i.ytimg.com/vi/vAf2rdmsSwo/maxresdefault.jpg"}
   // {id:30, category:'hot, price'}
 
